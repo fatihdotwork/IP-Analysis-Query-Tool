@@ -4,9 +4,9 @@ A versatile, multi-threaded desktop application for analyzing lists of IP addres
 
 ![ss1](https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss1.JPG)
 
-https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss2.JPG
+![ss2](https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss2.JPG)
 
-https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss3.JPG
+![ss3](https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss3.JPG)
 
 
 ## ✨ Features
