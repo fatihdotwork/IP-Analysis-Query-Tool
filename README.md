@@ -2,9 +2,12 @@
 
 A versatile, multi-threaded desktop application for analyzing lists of IP addresses. This tool allows security analysts, network administrators, and researchers to quickly perform DNS/ASN lookups, check against the Spamhaus blacklist, and query the AbuseIPDB API for detailed reputation information.
 
-[---](https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss1.JPG)
+https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss1.JPG
+
 https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss2.JPG
+
 https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads/main/ss3.JPG
+
 
 ## ✨ Features
 
