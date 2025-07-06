@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/fatihdotwork/IP-Analysis-Query-Tool/refs/heads
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
-    cd [your-repository-name]
+    git clone https://github.com/fatihdotwork/IP-Analysis-Query-Tool.git
+    cd IP-Analysis-Query-Tool
     ```
 
 2.  **Install the required libraries:**
